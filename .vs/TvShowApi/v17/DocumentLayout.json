@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DevOps\\source\\repos\\TvShowApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC963B0E-3D97-4978-A1EF-33102109916B}|TvShowApi.csproj|c:\\users\\devops\\source\\repos\\tvshowapi\\repositories\\tvshowrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC963B0E-3D97-4978-A1EF-33102109916B}|TvShowApi.csproj|solutionrelative:repositories\\tvshowrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC963B0E-3D97-4978-A1EF-33102109916B}|TvShowApi.csproj|c:\\users\\devops\\source\\repos\\tvshowapi\\controllers\\tvshowscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC963B0E-3D97-4978-A1EF-33102109916B}|TvShowApi.csproj|solutionrelative:controllers\\tvshowscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC963B0E-3D97-4978-A1EF-33102109916B}|TvShowApi.csproj|c:\\users\\devops\\source\\repos\\tvshowapi\\services\\tvshowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC963B0E-3D97-4978-A1EF-33102109916B}|TvShowApi.csproj|solutionrelative:services\\tvshowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC963B0E-3D97-4978-A1EF-33102109916B}|TvShowApi.csproj|c:\\users\\devops\\source\\repos\\tvshowapi\\interfaces\\itvshowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC963B0E-3D97-4978-A1EF-33102109916B}|TvShowApi.csproj|solutionrelative:interfaces\\itvshowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC963B0E-3D97-4978-A1EF-33102109916B}|TvShowApi.csproj|c:\\users\\devops\\source\\repos\\tvshowapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC963B0E-3D97-4978-A1EF-33102109916B}|TvShowApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC963B0E-3D97-4978-A1EF-33102109916B}|TvShowApi.csproj|c:\\users\\devops\\source\\repos\\tvshowapi\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC963B0E-3D97-4978-A1EF-33102109916B}|TvShowApi.csproj|solutionrelative:mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC963B0E-3D97-4978-A1EF-33102109916B}|TvShowApi.csproj|c:\\users\\devops\\source\\repos\\tvshowapi\\dtos\\tvshowapidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC963B0E-3D97-4978-A1EF-33102109916B}|TvShowApi.csproj|solutionrelative:dtos\\tvshowapidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC963B0E-3D97-4978-A1EF-33102109916B}|TvShowApi.csproj|c:\\users\\devops\\source\\repos\\tvshowapi\\models\\tvshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC963B0E-3D97-4978-A1EF-33102109916B}|TvShowApi.csproj|solutionrelative:models\\tvshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC963B0E-3D97-4978-A1EF-33102109916B}|TvShowApi.csproj|c:\\users\\devops\\source\\repos\\tvshowapi\\tvshowapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FC963B0E-3D97-4978-A1EF-33102109916B}|TvShowApi.csproj|solutionrelative:tvshowapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1621625102:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TvShowsController.cs",
+              "DocumentMoniker": "C:\\Users\\DevOps\\source\\repos\\TvShowApi\\Controllers\\TvShowsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TvShowsController.cs",
+              "ToolTip": "C:\\Users\\DevOps\\source\\repos\\TvShowApi\\Controllers\\TvShowsController.cs",
+              "RelativeToolTip": "Controllers\\TvShowsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:30:21.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DevOps\\source\\repos\\TvShowApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DevOps\\source\\repos\\TvShowApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:29:17.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TvShowRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DevOps\\source\\repos\\TvShowApi\\Repositories\\TvShowRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\TvShowRepository.cs",
+              "ToolTip": "C:\\Users\\DevOps\\source\\repos\\TvShowApi\\Repositories\\TvShowRepository.cs",
+              "RelativeToolTip": "Repositories\\TvShowRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:03:58.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TvShowService.cs",
+              "DocumentMoniker": "C:\\Users\\DevOps\\source\\repos\\TvShowApi\\Services\\TvShowService.cs",
+              "RelativeDocumentMoniker": "Services\\TvShowService.cs",
+              "ToolTip": "C:\\Users\\DevOps\\source\\repos\\TvShowApi\\Services\\TvShowService.cs",
+              "RelativeToolTip": "Services\\TvShowService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:06:28.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITvShowService.cs",
+              "DocumentMoniker": "C:\\Users\\DevOps\\source\\repos\\TvShowApi\\Interfaces\\ITvShowService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ITvShowService.cs",
+              "ToolTip": "C:\\Users\\DevOps\\source\\repos\\TvShowApi\\Interfaces\\ITvShowService.cs",
+              "RelativeToolTip": "Interfaces\\ITvShowService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:41:10.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TvShowApiDto.cs",
+              "DocumentMoniker": "C:\\Users\\DevOps\\source\\repos\\TvShowApi\\Dtos\\TvShowApiDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\TvShowApiDto.cs",
+              "ToolTip": "C:\\Users\\DevOps\\source\\repos\\TvShowApi\\Dtos\\TvShowApiDto.cs",
+              "RelativeToolTip": "Dtos\\TvShowApiDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:02:53.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\DevOps\\source\\repos\\TvShowApi\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\DevOps\\source\\repos\\TvShowApi\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "Mappings\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:28:55.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TvShow.cs",
+              "DocumentMoniker": "C:\\Users\\DevOps\\source\\repos\\TvShowApi\\Models\\TvShow.cs",
+              "RelativeDocumentMoniker": "Models\\TvShow.cs",
+              "ToolTip": "C:\\Users\\DevOps\\source\\repos\\TvShowApi\\Models\\TvShow.cs",
+              "RelativeToolTip": "Models\\TvShow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:43:54.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TvShowApi",
+              "DocumentMoniker": "C:\\Users\\DevOps\\source\\repos\\TvShowApi\\TvShowApi.csproj",
+              "RelativeDocumentMoniker": "TvShowApi.csproj",
+              "ToolTip": "C:\\Users\\DevOps\\source\\repos\\TvShowApi\\TvShowApi.csproj",
+              "RelativeToolTip": "TvShowApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-07T18:24:23.727Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
